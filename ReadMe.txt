@@ -8,18 +8,6 @@ Development environment
 6. Ninject
 7. Json.Net
 
-
-Assumptions
-------------
-1. Changed the database design to include AlbumId as foreign key in dbo.Song table. 
-2. Removed SongId from dbo.Album table.
-3. Track number of song is same as songId
-4. SongId in xml file for an album is unique. These two songs from the album id = 1 had songId = 4. 
-      <song title="Feral" length="3:13" SongId="4"/>
-      <song title="Lotus Flower" length="5:01" SongId="4"/>
-Updated SongId's for this album correctly 
-
-
 Functionalities implemented
 -------------------------------------
 1. Get album details by name. (Return information about Songs in album.)
