@@ -17,3 +17,13 @@ C:\Users\Deepika\Desktop\Coding Challenge Web API\MyMusicStore\MyMusicStore.Data
 C:\Users\Deepika\Desktop\Coding Challenge Web API\MyMusicStore\MyMusicStore.Data\obj\Debug\MyMusicStore.Data.csprojResolveAssemblyReference.cache
 C:\Users\Deepika\Desktop\Coding Challenge Web API\MyMusicStore\MyMusicStore.Data\obj\Debug\MyMusicStore.Data.dll
 C:\Users\Deepika\Desktop\Coding Challenge Web API\MyMusicStore\MyMusicStore.Data\obj\Debug\MyMusicStore.Data.pdb
+C:\Users\Deepika\Desktop\Projects\MyMusicStore\MyMusicStore\MyMusicStore.Data\bin\Debug\MyMusicStore.Data.dll.config
+C:\Users\Deepika\Desktop\Projects\MyMusicStore\MyMusicStore\MyMusicStore.Data\bin\Debug\MyMusicStore.Data.dll
+C:\Users\Deepika\Desktop\Projects\MyMusicStore\MyMusicStore\MyMusicStore.Data\bin\Debug\MyMusicStore.Data.pdb
+C:\Users\Deepika\Desktop\Projects\MyMusicStore\MyMusicStore\MyMusicStore.Data\bin\Debug\EntityFramework.dll
+C:\Users\Deepika\Desktop\Projects\MyMusicStore\MyMusicStore\MyMusicStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Deepika\Desktop\Projects\MyMusicStore\MyMusicStore\MyMusicStore.Data\bin\Debug\EntityFramework.xml
+C:\Users\Deepika\Desktop\Projects\MyMusicStore\MyMusicStore\MyMusicStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Deepika\Desktop\Projects\MyMusicStore\MyMusicStore\MyMusicStore.Data\obj\Debug\MyMusicStore.Data.csprojResolveAssemblyReference.cache
+C:\Users\Deepika\Desktop\Projects\MyMusicStore\MyMusicStore\MyMusicStore.Data\obj\Debug\MyMusicStore.Data.dll
+C:\Users\Deepika\Desktop\Projects\MyMusicStore\MyMusicStore\MyMusicStore.Data\obj\Debug\MyMusicStore.Data.pdb
